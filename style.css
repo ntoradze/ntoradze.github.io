@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	font-family: 'Abril Fatface', cursive;
+	background-image: url("img/background-image.jpg");
+	background-size: cover;
+	margin-top: 0px;
+	
+}
+img {
+	max-width: 100%;
+	max-height: 100%;
+	height: 6em;
+	border-radius: 70%;
+	margin-right:20px;
+	margin-top: 100px;
+}
+
+.container {
+	display:flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+h1{
+	padding-top: 0px;
+	margin-top: 0px;
+	font-size: 100px;
+	color: rgba(223,22,108,1.00);
+	background-color: rgba(191,186,186,0.30);
+	text-align: center;
+}
+
