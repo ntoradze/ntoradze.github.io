@@ -5,7 +5,11 @@ body{
 	background-image: url("img/background-image.jpg");
 	background-size: cover;
 	margin-top: 0px;
-	background-repeat: no-repeat;
+	height: 100%; 
+   background-attachment: fixed; 
+   background-position: center; 
+   background-repeat: no-repeat; 
+  
 	
 }
 img {
